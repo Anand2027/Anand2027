@@ -1,18 +1,28 @@
-<h1 align="center">Hi 👋, I'm Anand Swaroop Gupta</h1>
-<h3 align="center">A passionate Frontend-first Full Stack Developer from India</h3>
+<h1 align="center">
+  Hi 👋, I'm Anand Swaroop Gupta
+</h1>
 
-<p align="center">
-  <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 15px;" />
-</p>
+<h3 align="center">
+  <span class="typed-text"></span><span class="cursor">&nbsp;</span>
+</h3>
 
-<p align="center">
-  🔭 I’m currently working on <b>full-stack web apps using React + Node.js</b><br/>
-  🌱 I’m currently learning <b>TypeScript, Next.js, and AI integration</b><br/>
-  👯 I’m looking to collaborate on <b>frontend-heavy or AI-enhanced web projects</b><br/>
-  💬 Ask me about <b>React, Tailwind CSS, Express, MongoDB, APIs</b><br/>
-  📫 Reach me via: <a href="https://portfolio-anand-swaroop-guptas-projects.vercel.app/" target="_blank">My Portfolio</a><br/>
-  ⚡ Fun fact: I love clean UI and coffee ☕ while coding!
-</p>
+<table align="center" width="100%" style="max-width: 900px;">
+  <tr>
+    <td width="50%" valign="middle" style="padding-right: 20px;">
+      <p>
+        🔭 I’m currently working on <b>full-stack web apps using React + Node.js</b><br/>
+        🌱 I’m currently learning <b>TypeScript, Next.js, and AI integration</b><br/>
+        👯 I’m looking to collaborate on <b>frontend-heavy or AI-enhanced web projects</b><br/>
+        💬 Ask me about <b>React, Tailwind CSS, Express, MongoDB, APIs</b><br/>
+        📫 Reach me via: <a href="https://portfolio-anand-swaroop-guptas-projects.vercel.app/" target="_main" rel="noopener noreferrer">My Portfolio</a><br/>
+        ⚡ Fun fact: I love clean UI and coffee ☕ while coding!
+      </p>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img alt="Developer working" src="https://cdn.dribbble.com/users/199817/screenshots/5517362/media/072559a4706a38ab93fdb74d22029e6f.gif" width="350" style="border-radius: 15px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -41,41 +51,90 @@
 
 ---
 
-### 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandGuptaDev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🧩 Fun Fact
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-### 👇 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/AnandGuptaDev/count.svg" alt="Profile Visitor Count" />
-</p>
-
----
-
 ### 🔗 Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anand-swaroop-gupta-42b72623b" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/anand-swaroop-gupta-42b72623b" target="_main" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:anandgupta020204@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:anandgupta020204@gmail.com" target="_main" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://portfolio-anand-swaroop-guptas-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://portfolio-anand-swaroop-guptas-projects.vercel.app/" target="_main" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+---
+
+<!-- CSS typing animation (works on GitHub) -->
+<style>
+  .typed-text {
+    font-family: 'Courier New', Courier, monospace;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid #61dafb;
+    animation: typing 4s steps(40, end) infinite alternate, blink 0.7s step-end infinite;
+  }
+
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+
+  @keyframes blink {
+    50% { border-color: transparent }
+  }
+
+  .cursor {
+    animation: blink 0.7s step-end infinite;
+  }
+</style>
+
+<script>
+  const phrases = [
+    "A passionate Frontend-first Full Stack Developer from India",
+    "React & Tailwind CSS enthusiast",
+    "AI & Next.js learner",
+    "Clean UI lover ☕"
+  ];
+
+  let currentPhraseIndex = 0;
+  let currentText = '';
+  let isDeleting = false;
+  const typedTextSpan = document.querySelector('.typed-text');
+
+  function type() {
+    if (!typedTextSpan) return;
+
+    const fullText = phrases[currentPhraseIndex];
+
+    if (isDeleting) {
+      currentText = fullText.substring(0, currentText.length - 1);
+    } else {
+      currentText = fullText.substring(0, currentText.length + 1);
+    }
+
+    typedTextSpan.textContent = currentText;
+
+    let delay = isDeleting ? 100 : 150;
+
+    if (!isDeleting && currentText === fullText) {
+      delay = 2000;
+      isDeleting = true;
+    } else if (isDeleting && currentText === '') {
+      isDeleting = false;
+      currentPhraseIndex = (currentPhraseIndex + 1) % phrases.length;
+      delay = 500;
+    }
+
+    setTimeout(type, delay);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    type();
+  });
+</script>
 
