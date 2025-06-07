@@ -3,15 +3,15 @@
 <h3 align="center">A passionate Frontend-first Full Stack Developer from India</h3>
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" style="border-radius: 15px; max-width: 100%; height: auto;" />
+  <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 15px; max-width: 100%; height: auto;" />
 </p>
 
 <p align="center">
   🔭 I’m currently working on <b>full-stack web apps using React + Node.js</b><br/>
   🌱 I’m currently learning <b>TypeScript, Next.js, and AI integration</b><br/>
-  👯 I’m looking to collaborate on <b>frontend-heavy or AI-enhanced web projects</b><br/>
+  👯 I’m looking to collaborate on <b>frontend-heavy or AI-enhanced web projects</b><br/> 
   💬 Ask me about <b>React, Tailwind CSS, Express, MongoDB, APIs</b><br/>
-  📫 Reach me via: <a href="https://portfolio-anand-swaroop-guptas-projects.vercel.app/" target="_main">My Portfolio</a><br/>
+  📫 Reach me via: <a href="https://portfolio-anand-swaroop-guptas-projects.vercel.app/" target="_blank" rel="noopener noreferrer">My Portfolio</a><br/>
   ⚡ Fun fact: I love clean UI and coffee ☕ while coding!
 </p>
 
@@ -45,16 +45,7 @@
 ### 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandGuptaDev&layout=compact&theme=tokyonight&langs_count=5" alt="Top Languages" />
-</p>
-
-<p align="center" style="max-width: 600px; margin:auto; font-size: 16px; line-height: 1.4;">
-  <b>Most Used Languages:</b><br/>
-  <code>JavaScript</code> (45%) — Frontend & Backend with React & Node.js<br/>
-  <code>TypeScript</code> (25%) — Typed React & Next.js projects<br/>
-  <code>HTML & CSS</code> (15%) — UI with Tailwind CSS<br/>
-  <code>Python</code> (10%) — AI & backend scripting<br/>
-  <code>SQL</code> (5%) — Database management with MySQL & MongoDB
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandGuptaDev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
