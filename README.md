@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <span class="typed-text"></span><span class="cursor">&nbsp;</span>
+  <span class="typed-text">A passionate Frontend-first Full Stack Developer from India</span><span class="cursor">&nbsp;</span>
 </h3>
 
 <table align="center" width="100%" style="max-width: 900px;">
@@ -19,7 +19,7 @@
       </p>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img alt="Developer working" src="https://cdn.dribbble.com/users/199817/screenshots/5517362/media/072559a4706a38ab93fdb74d22029e6f.gif" width="350" style="border-radius: 15px;" />
+      <img alt="Developer working" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350" style="border-radius: 15px;" />
     </td>
   </tr>
 </table>
@@ -69,14 +69,14 @@
 
 ---
 
-<!-- CSS typing animation (works on GitHub) -->
 <style>
   .typed-text {
     font-family: 'Courier New', Courier, monospace;
     white-space: nowrap;
     overflow: hidden;
     border-right: 3px solid #61dafb;
-    animation: typing 4s steps(40, end) infinite alternate, blink 0.7s step-end infinite;
+    width: 0;
+    animation: typing 4s steps(40, end) forwards;
   }
 
   @keyframes typing {
@@ -84,57 +84,27 @@
     to { width: 100% }
   }
 
-  @keyframes blink {
-    50% { border-color: transparent }
+  .cursor {
+    display: inline-block;
+    width: 10px;
+    background-color: #61dafb;
+    animation: blink 0.7s step-end infinite;
+    margin-left: 2px;
   }
 
-  .cursor {
-    animation: blink 0.7s step-end infinite;
+  @keyframes blink {
+    50% { background-color: transparent; }
+  }
+
+  @media (max-width: 600px) {
+    table, tr, td {
+      display: block !important;
+      width: 100% !important;
+      text-align: center !important;
+    }
+    td {
+      padding: 0 0 20px 0 !important;
+    }
   }
 </style>
-
-<script>
-  const phrases = [
-    "A passionate Frontend-first Full Stack Developer from India",
-    "React & Tailwind CSS enthusiast",
-    "AI & Next.js learner",
-    "Clean UI lover ☕"
-  ];
-
-  let currentPhraseIndex = 0;
-  let currentText = '';
-  let isDeleting = false;
-  const typedTextSpan = document.querySelector('.typed-text');
-
-  function type() {
-    if (!typedTextSpan) return;
-
-    const fullText = phrases[currentPhraseIndex];
-
-    if (isDeleting) {
-      currentText = fullText.substring(0, currentText.length - 1);
-    } else {
-      currentText = fullText.substring(0, currentText.length + 1);
-    }
-
-    typedTextSpan.textContent = currentText;
-
-    let delay = isDeleting ? 100 : 150;
-
-    if (!isDeleting && currentText === fullText) {
-      delay = 2000;
-      isDeleting = true;
-    } else if (isDeleting && currentText === '') {
-      isDeleting = false;
-      currentPhraseIndex = (currentPhraseIndex + 1) % phrases.length;
-      delay = 500;
-    }
-
-    setTimeout(type, delay);
-  }
-
-  document.addEventListener('DOMContentLoaded', () => {
-    type();
-  });
-</script>
 
