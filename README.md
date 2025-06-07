@@ -9,7 +9,7 @@
 <p align="center">
   🔭 I’m currently working on <b>full-stack web apps using React + Node.js</b><br/>
   🌱 I’m currently learning <b>TypeScript, Next.js, and AI integration</b><br/>
-  👯 I’m looking to collaborate on <b>frontend-heavy or AI-enhanced web projects</b><br/>
+  👯 I’m looking to collaborate on <b>frontend-heavy or AI-enhanced web projects</b><br/> 
   💬 Ask me about <b>React, Tailwind CSS, Express, MongoDB, APIs</b><br/>
   📫 Reach me via: <a href="https://portfolio-anand-swaroop-guptas-projects.vercel.app/" target="_blank">My Portfolio</a><br/>
   ⚡ Fun fact: I love clean UI and coffee ☕ while coding!
