@@ -3,23 +3,23 @@
 </h1>
 
 <h3 align="center">
-  <span class="typed-text">A passionate Frontend-first Full Stack Developer from India</span><span class="cursor">&nbsp;</span>
+  A Passionate Frontend-First Full Stack Developer from India
 </h3>
 
-<table align="center" width="100%" style="max-width: 900px;">
+<table align="center" width="100%" style="max-width: 900px; border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="middle" style="padding-right: 20px;">
-      <p>
-        🔭 I’m currently working on <b>full-stack web apps using React + Node.js</b><br/>
-        🌱 I’m currently learning <b>TypeScript, Next.js, and AI integration</b><br/>
-        👯 I’m looking to collaborate on <b>frontend-heavy or AI-enhanced web projects</b><br/>
-        💬 Ask me about <b>React, Tailwind CSS, Express, MongoDB, APIs</b><br/>
-        📫 Reach me via: <a href="https://portfolio-anand-swaroop-guptas-projects.vercel.app/" target="_main" rel="noopener noreferrer">My Portfolio</a><br/>
+    <td width="50%" valign="middle" style="padding-right: 20px; vertical-align: top;">
+      <p style="font-size: 1.1em;">
+        🔭 Currently working on <b>full-stack web applications using React and Node.js</b><br/>
+        🌱 Learning <b>TypeScript, Next.js, and AI integration</b><br/>
+        👯 Looking to collaborate on <b>frontend-heavy or AI-enhanced web projects</b><br/>
+        💬 Ask me about <b>React, Tailwind CSS, Express, MongoDB, and APIs</b><br/>
+        📫 Reach me via: <a href="https://portfolio-anand-swaroop-guptas-projects.vercel.app/" target="_blank" rel="noopener noreferrer">My Portfolio</a><br/>
         ⚡ Fun fact: I love clean UI and coffee ☕ while coding!
       </p>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img alt="Developer working" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350" style="border-radius: 15px;" />
+      <img alt="Anand Swaroop Gupta" src="https://your-new-image-url.com/image.jpg" width="350" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);" />
     </td>
   </tr>
 </table>
@@ -51,7 +51,33 @@
 
 ---
 
-### 🔗 Connect with me:
+### 🌟 Featured Projects
+
+#### 1. [Project Name 1](https://github.com/yourusername/project1)
+   - **Description**: A brief description of what the project does and the technologies used.
+   - **Tech Stack**: React, Node.js, MongoDB
+
+#### 2. [Project Name 2](https://github.com/yourusername/project2)
+   - **Description**: A brief description of what the project does and the technologies used.
+   - **Tech Stack**: Next.js, Tailwind CSS, Express
+
+#### 3. [Project Name 3](https://github.com/yourusername/project3)
+   - **Description**: A brief description of what the project does and the technologies used.
+   - **Tech Stack**: TypeScript, GraphQL, Apollo
+
+---
+
+### 💬 Testimonials
+
+> "Anand is a dedicated developer who consistently delivers high-quality work. His attention to detail and passion for coding are evident in every project."  
+> — **Colleague Name**, Position
+
+> "Working with Anand has been a pleasure. His ability to solve complex problems and collaborate effectively makes him a valuable team member."  
+> — **Mentor Name**, Position
+
+---
+
+### 🔗 Connect with Me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anand-swaroop-gupta-42b72623b" target="_main" rel="noopener noreferrer">
@@ -66,45 +92,3 @@
     <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
----
-
-<style>
-  .typed-text {
-    font-family: 'Courier New', Courier, monospace;
-    white-space: nowrap;
-    overflow: hidden;
-    border-right: 3px solid #61dafb;
-    width: 0;
-    animation: typing 4s steps(40, end) forwards;
-  }
-
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-
-  .cursor {
-    display: inline-block;
-    width: 10px;
-    background-color: #61dafb;
-    animation: blink 0.7s step-end infinite;
-    margin-left: 2px;
-  }
-
-  @keyframes blink {
-    50% { background-color: transparent; }
-  }
-
-  @media (max-width: 600px) {
-    table, tr, td {
-      display: block !important;
-      width: 100% !important;
-      text-align: center !important;
-    }
-    td {
-      padding: 0 0 20px 0 !important;
-    }
-  }
-</style>
-
