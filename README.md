@@ -1,28 +1,18 @@
-<h1 align="center">
-  Hi 👋, I'm Anand Swaroop Gupta
-</h1>
+<h1 align="center">Hi 👋, I'm Anand Swaroop Gupta</h1>
+<h3 align="center">A passionate Frontend-first Full Stack Developer from India</h3>
 
-<h3 align="center">
-  A Passionate Frontend-First Full Stack Developer from India
-</h3>
+<p align="center">
+  <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 15px;" />
+</p>
 
-<table align="center" width="100%" style="max-width: 900px; border-collapse: collapse;">
-  <tr>
-    <td width="50%" valign="middle" style="padding-right: 20px; vertical-align: top;">
-      <p style="font-size: 1.1em;">
-        🔭 Currently working on <b>full-stack web applications using React and Node.js</b><br/>
-        🌱 Learning <b>TypeScript, Next.js, and AI integration</b><br/>
-        👯 Looking to collaborate on <b>frontend-heavy or AI-enhanced web projects</b><br/>
-        💬 Ask me about <b>React, Tailwind CSS, Express, MongoDB, and APIs</b><br/>
-        📫 Reach me via: <a href="https://portfolio-anand-swaroop-guptas-projects.vercel.app/" target="_blank" rel="noopener noreferrer">My Portfolio</a><br/>
-        ⚡ Fun fact: I love clean UI and coffee ☕ while coding!
-      </p>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img alt="Anand Swaroop Gupta" src="https://your-new-image-url.com/image.jpg" width="350" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  🔭 I’m currently working on <b>full-stack web apps using React + Node.js</b><br/>
+  🌱 I’m currently learning <b>TypeScript, Next.js, and AI integration</b><br/>
+  👯 I’m looking to collaborate on <b>frontend-heavy or AI-enhanced web projects</b><br/>
+  💬 Ask me about <b>React, Tailwind CSS, Express, MongoDB, APIs</b><br/>
+  📫 Reach me via: <a href="https://portfolio-anand-swaroop-guptas-projects.vercel.app/" target="_blank">My Portfolio</a><br/>
+  ⚡ Fun fact: I love clean UI and coffee ☕ while coding!
+</p>
 
 ---
 
@@ -51,33 +41,29 @@
 
 ---
 
-### 🌟 Featured Projects
+### 📈 Top Languages
 
-#### 1. [Project Name 1](https://github.com/yourusername/project1)
-   - **Description**: A brief description of what the project does and the technologies used.
-   - **Tech Stack**: React, Node.js, MongoDB
-
-#### 2. [Project Name 2](https://github.com/yourusername/project2)
-   - **Description**: A brief description of what the project does and the technologies used.
-   - **Tech Stack**: Next.js, Tailwind CSS, Express
-
-#### 3. [Project Name 3](https://github.com/yourusername/project3)
-   - **Description**: A brief description of what the project does and the technologies used.
-   - **Tech Stack**: TypeScript, GraphQL, Apollo
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandGuptaDev&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-### 💬 Testimonials
+### 🧩 Fun Fact
 
-> "Anand is a dedicated developer who consistently delivers high-quality work. His attention to detail and passion for coding are evident in every project."  
-> — **Colleague Name**, Position
-
-> "Working with Anand has been a pleasure. His ability to solve complex problems and collaborate effectively makes him a valuable team member."  
-> — **Mentor Name**, Position
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
 
-### 🔗 Connect with Me:
+### 👇 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AnandGuptaDev/count.svg" alt="Profile Visitor Count" />
+</p>
+
+---
+
+### 🔗 Connect with me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anand-swaroop-gupta-42b72623b" target="_main" rel="noopener noreferrer">
