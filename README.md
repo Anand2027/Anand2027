@@ -42,10 +42,21 @@
 
 ---
 
+---
+
 ### 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandGuptaDev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandGuptaDev&layout=compact&theme=tokyonight&langs_count=5" alt="Top Languages" />
+</p>
+
+<p align="center" style="max-width: 600px; margin:auto; font-size: 16px;">
+  <b>Most Used Languages:</b><br/>
+  • JavaScript (45%) – Frontend + Backend with React & Node.js<br/>
+  • TypeScript (25%) – For safer, scalable React & Next.js projects<br/>
+  • HTML & CSS (15%) – Building beautiful UI with Tailwind CSS<br/>
+  • Python (10%) – Exploring AI and backend automation<br/>
+  • SQL (5%) – Managing databases with MySQL and MongoDB
 </p>
 
 ---
