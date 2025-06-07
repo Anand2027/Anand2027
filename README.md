@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anand Swaroop Gupta</h1>
+
 <h3 align="center">A passionate Frontend-first Full Stack Developer from India</h3>
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 15px;" />
+  <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 15px; max-width: 100%; height: auto;" />
 </p>
 
 <p align="center">
