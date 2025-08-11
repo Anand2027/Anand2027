@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Anand Swaroop Gupta</h1>
+<h1 align="center">👋 Hi, I'm Anand Swaroop Gupta</h1>
 
-<h3 align="center">A passionate Frontend-first Full Stack Developer from India</h3>
+<h3 align="center">🌟 A Passionate Frontend-First Full Stack Developer from India</h3>
 
 <p align="center">
   <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 15px; max-width: 100%; height: auto;" />
 </p>
 
 <p align="center">
-  🔭 I’m currently working on <b>full-stack web apps using React + Node.js</b><br/>
+  🔭 I’m currently working on <b>full-stack web applications using React and Node.js</b><br/>
   🌱 I’m currently learning <b>TypeScript, Next.js, and AI integration</b><br/>
   👯 I’m looking to collaborate on <b>frontend-heavy or AI-enhanced web projects</b><br/> 
-  💬 Ask me about <b>React, Tailwind CSS, Express, MongoDB, APIs</b><br/>
+  💬 Ask me about <b>React, Tailwind CSS, Express, MongoDB, and APIs</b><br/>
   📫 Reach me via: <a href="https://portfolio-anand-swaroop-guptas-projects.vercel.app/" target="_blank" rel="noopener noreferrer">My Portfolio</a><br/>
   ⚡ Fun fact: I love clean UI and coffee ☕ while coding!
 </p>
@@ -56,7 +56,7 @@
 
 ---
 
-### 👇 Visitor Count
+### 👀 Visitor Count
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/AnandGuptaDev/count.svg" alt="Profile Visitor Count" />
@@ -64,18 +64,30 @@
 
 ---
 
-### 🔗 Connect with me:
+### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anand-swaroop-gupta-42b72623b" target="_main" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/anand-swaroop-gupta-42b72623b" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:anandgupta020204@gmail.com" target="_main" rel="noopener noreferrer">
+  <a href="mailto:anandgupta020204@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://portfolio-anand-swaroop-guptas-projects.vercel.app/" target="_main" rel="noopener noreferrer">
+  <a href="https://portfolio-anand-swaroop-guptas-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+---
+
+### 🌐 Let's Collaborate!
+
+I'm always open to discussing new projects, ideas, or opportunities. If you have a project in mind or just want to chat about tech, feel free to reach out!
+
+---
+
+<div align="center">
+  <p>Created with ❤️ by Anand Swaroop Gupta © 2023</p>
+</div>
