@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hi, I'm Anand Swaroop Gupta</h1>
+
+# 👋 Hi, I'm Anand Swaroop Gupta
 
 <h3 align="center">🌟 A Passionate Frontend-First Full Stack Developer from India</h3>
 
@@ -17,7 +18,7 @@
 
 ---
 
-### 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -33,39 +34,39 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnandGuptaDev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anand2027&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandGuptaDev&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anand2027&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📈 Top Languages
+## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandGuptaDev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand2027&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🧩 Fun Fact
+## 🧩 Fun Fact
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
 
-### 👀 Visitor Count
+## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/AnandGuptaDev/count.svg" alt="Profile Visitor Count" />
+  <img src="https://profile-counter.glitch.me/Anand2027/count.svg" alt="Profile Visitor Count" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anand-swaroop-gupta-42b72623b" target="_blank" rel="noopener noreferrer">
@@ -81,12 +82,12 @@
   </a>
 </p>
 
-### 🌐 Let's Collaborate!
+## 🌐 Let's Collaborate!
 
 I'm always open to discussing new projects, ideas, or opportunities. If you have a project in mind or just want to chat about tech, feel free to reach out!
 
 ---
 
 <div align="center">
-  <p>Created with ❤️ by Anand Swaroop Gupta © 2023</p>
+  <p>Created with ❤️ by Anand Swaroop Gupta © 2025</p>
 </div>
