@@ -1,270 +1,133 @@
 
-<div align="center">
+<h1 align="center">🚀 Anand Swaroop Gupta</h1>  
 
-# 👋 Hey, I'm Anand Gupta
+<h2 align="center">💻 Frontend-First Full Stack Developer | India</h2>  
 
-### 🚀 Full Stack Developer | React Developer | AI Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+AI+Powered+Applications;Always+Learning+Something+New;Open+Source+Contributor" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation" />
+</p>  
 
 ---
 
-# 💫 About Me
+## 🚀 About Me  
 
-```cpp
-class AnandGupta {
-public:
-    string role = "Full Stack Developer";
-    string frontend = "React.js";
-    string backend = "Node.js + Express.js";
-    string database = "MongoDB";
-    string language = "C++";
-    string currentFocus = "AI Applications";
-
-    void goal() {
-        cout << "Build impactful software and become a great engineer";
-    }
-};
-```
-
-🎓 B.Tech Student
-
-💻 Passionate Full Stack Developer
-
-⚛️ Strong in React Development
-
-🌱 Currently Exploring AI & System Design
-
-🚀 Building Real World Projects
-
-📚 Consistently Improving DSA & Problem Solving
-
-🎯 Goal: Become a Top Software Engineer
+<p align="center">
+  🔭 Building <b>full-stack web apps with React, Node.js, and MongoDB</b> <br/>
+  🌱 Exploring <b>TypeScript, Next.js, and AI-powered solutions</b> <br/>
+  🤝 Open to collaborate on <b>frontend-heavy or AI-enhanced projects</b> <br/>
+  💬 Ask me about <b>React, Tailwind CSS, Express.js, APIs, MongoDB</b> <br/>
+  📫 Reach me via: <a href="https://portfolio-anand-swaroop-guptas-projects.vercel.app/" target="_blank"><b>Portfolio</b></a> <br/>
+  ⚡ Fun fact: I believe <b>clean UI + strong backend = perfect app</b> ☕  
+</p>  
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack  
 
-## Frontend
+<div align="center">  
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+| Frontend | Backend | Database | Tools & Others |
+|----------|---------|----------|----------------|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) | ![API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white) | ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white) |  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+</div>  
 
 ---
 
-## Backend
+## 📊 GitHub Dashboard  
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anand2027&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anand2027&theme=tokyonight&hide_border=true" height="170" />
+</p>  
 
-![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
----
-
-## Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
----
-
-## Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anand2027&theme=react-dark&bg_color=0f0f0f&hide_border=true" alt="GitHub Activity Graph" />
+</p>  
 
 ---
 
-## Tools
+## 📈 Top Languages  
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand2027&layout=compact&theme=tokyonight&hide_border=true" />
+</p>  
 
 ---
 
-# 🚀 Featured Projects
+## 📌 Featured Projects  
 
-## 🔍 CodeScan AI
-
-AI-powered platform for code analysis and bug detection.
-
-### Features
-
-- Code Review
-- AI Suggestions
-- Bug Detection
-- Clean UI
-- Developer Friendly
+<p align="center">
+  <a href="https://portfolio-anand-swaroop-guptas-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Demo-blue?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Anand2027" target="_blank">
+    <img src="https://img.shields.io/badge/💻%20More%20Projects-GitHub-black?style=for-the-badge" />
+  </a>
+</p>  
 
 ---
 
-## 🌍 Disaster Alert AI
+## 🏆 Achievements  
 
-Real-time disaster monitoring and alerting platform.
-
-### Features
-
-- AI Analysis
-- Live Alerts
-- Disaster Tracking
-- User Notifications
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anand2027&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>  
 
 ---
 
-## 🔐 MERN Authentication System
+## 💡 Quote I Follow  
 
-JWT Authentication using MERN Stack.
-
-### Features
-
-- Login
-- Signup
-- Logout
-- JWT Authentication
-- Protected Routes
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>  
+  — <b>Cory House</b>  
+</p>  
 
 ---
 
-# 📈 GitHub Analytics
+## 📊 Mini Dashboard (Live Counters)  
 
-<div align="center">
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Anand2027&label=Profile%20Views&style=for-the-badge&color=1f6feb" alt="profile views" />
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/Anand2027?label=Followers&style=for-the-badge&color=1f6feb" alt="followers badge" />
+  <!-- Stars on public repos -->
+  <img src="https://img.shields.io/github/stars/Anand2027?affiliations=OWNER&label=Repo%20Stars&style=for-the-badge&color=1f6feb" alt="stars badge" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
-
-</div>
+<!-- Optional: Alternative views counter with rounded edges -->
+<!--
+<p align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnand2027&count_bg=%231F6FEB&title_bg=%230A0F1C&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" />
+  </a>
+</p>
+-->
 
 ---
 
-# 📊 Contribution Graph
+## 🔗 Connect with Me  
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anand-swaroop-gupta-42b72623b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:anandgupta020204@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-anand-swaroop-guptas-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>  
 
 ---
 
-# 🎯 Current Goals
-
-- Master Data Structures & Algorithms
-- Become Expert in React
-- Learn System Design
-- Build Production-Level Applications
-- Contribute to Open Source
-- Explore AI Engineering
-
----
-
-# 🌱 Currently Learning
-
-- Advanced React
-- Backend Architecture
-- AI Integration
-- Cloud Deployment
-- System Design
-
----
-
-# 📚 Coding Profiles
-
-### LeetCode
-
-Add Your Profile Link
-
-### Codeforces
-
-Add Your Profile Link
-
-### HackerRank
-
-Add Your Profile Link
-
-### GeeksforGeeks
-
-Add Your Profile Link
-
----
-
-# 📫 Connect With Me
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
----
-
-# 💭 Developer Philosophy
-
-> First solve the problem.
->
-> Then write the code.
->
-> Then optimize it.
->
-> Then scale it.
-
----
-
-<div align="center">
-
-## ⭐ Thanks for Visiting My Profile
-
-### 🚀 Building • Learning • Growing
-
-</div>
+<div align="center">  
+  <strong>✨ Crafted with ❤️ by Anand Swaroop Gupta © 2025</strong>  
+</div>  
